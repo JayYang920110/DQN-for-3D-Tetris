@@ -1,4 +1,4 @@
-# 🧠 3D Tetris with Deep Q-Network (DQN)
+# 3D Tetris with Deep Q-Network (DQN)
 
 A reinforcement learning project using a DQN agent to play a custom 3D Tetris environment. This repository includes both training and testing scripts, along with visualization tools for learning progress and gameplay.
 
@@ -59,6 +59,8 @@ python train.py
 python test.py
 ```
 
+---
+
 ## 📈 Training Curve
 
 - A graph showing episode rewards over training time.
@@ -69,19 +71,27 @@ python test.py
 
 ![alt text](./assets/training_loss_curve.png)
 
+---
+
 ## 🎥 Demo Video
 
 - Early-training gameplay results video.
 
 ![Early training gameplay](./assets/output.gif)
 
+---
+
 ## Inference
 ![alt text](./assets/result.png)
+
+---
 
 ## 📄 License
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for full details.
+
+---
 
 ### 📚 Acknowledgements
 
